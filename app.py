@@ -4,7 +4,7 @@ import requests
 st.set_page_config(page_title="Weather Clothing Recommender", page_icon="👕")
 
 st.title("👕 Weather-Based Clothing Recommender")
-st.write("This App is created by Tanuj Jain")
+st.write("This App is created by Atul Singh Dhakad")
 # ---------- FUNCTION TO GET WEATHER ----------
 def get_weather(city):
     # Get coordinates for the city using Open-Meteo's geocoding API
